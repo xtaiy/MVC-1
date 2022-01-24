@@ -1,0 +1,12 @@
+body{
+    overflow: hidden;
+}
+.global{
+    display: flex;
+    flex-wrap: wrap;
+}
+.global>section{
+    border: 1px solid red;
+    width: 50vw;
+    height: 50vh;
+}
